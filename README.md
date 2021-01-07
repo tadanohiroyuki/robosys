@@ -7,7 +7,7 @@
 * Python  
   * 3.85  
 ---  
-# 実行動画
+# 実行動画リンク
 [YouTube](https://youtu.be/eVCRS4W7XYA)  
 ---  
 # 実行方法  
