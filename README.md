@@ -10,7 +10,7 @@
 #実行動画
 [YouTube](https://youtu.be/eVCRS4W7XYA)  
 ---  
-#実行方法  
+# 実行方法  
 * 端末1 roscore　　
   端末2 chmod +x count.py  
   端末2 rosrun mypkg count.py  
